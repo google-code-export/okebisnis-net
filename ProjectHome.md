@@ -1,0 +1,1 @@
+this a label js for blogspot
